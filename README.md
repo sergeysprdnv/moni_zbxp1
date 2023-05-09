@@ -23,9 +23,13 @@
 ---
 
 ###Задание 1
-git clone https://github.com/sergeysprdnv/moni_zbxp1.git /n
+
+git clone https://github.com/sergeysprdnv/moni_zbxp1.git
+
 git add .
+
 git commint -m "comment"
+
 git push
 
 [Скриншот](https://github.com/sergeysprdnv/screenshots/blob/main/10-1-1.png)
