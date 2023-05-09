@@ -23,7 +23,7 @@
 ---
 
 ###Задание 1
-git clone https://github.com/sergeysprdnv/moni_zbxp1.git \n
+git clone https://github.com/sergeysprdnv/moni_zbxp1.git /n
 git add .
 git commint -m "comment"
 git push
