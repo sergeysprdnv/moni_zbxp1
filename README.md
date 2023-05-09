@@ -34,4 +34,12 @@ git push
 
 [Скриншот](https://github.com/sergeysprdnv/screenshots/blob/main/10-1-1.png)
 
+###Задание 2
+
+[Скриншот](https://github.com/sergeysprdnv/screenshots/blob/main/10-1-2.png)
+
+[Скриншот](https://github.com/sergeysprdnv/screenshots/blob/main/10-1-3.png)
+
+[Скриншот](https://github.com/sergeysprdnv/screenshots/blob/main/10-1-4.png)
+
 
